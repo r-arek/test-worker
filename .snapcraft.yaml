@@ -1,4 +1,4 @@
-name: travis-worker
+name: test-worker
 base: core18
 version: git
 grade: stable
